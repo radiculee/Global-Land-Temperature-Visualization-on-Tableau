@@ -7,5 +7,6 @@ IQR is used to remove the outliers in the dataset.Tableau was chosen for visuali
 Link to the dataset: https://drive.google.com/drive/folders/1aLSWadL0D354s5hyeH678gVx8dB9povP?usp=sharing
 In this drive there are 2 files: Raw dataset and cleaned dataset
 
+Tableau Server workbook: https://eu-west-1a.online.tableau.com/#/site/vedant/views/TableauGlobalMap/Sheet4?:iid=2
 
 
